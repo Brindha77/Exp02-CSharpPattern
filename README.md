@@ -42,6 +42,7 @@ public class Pattern {
 }
 ```
 ## Output:
-!['output'](2c#.png)
+![''](./1.png)
+
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
