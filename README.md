@@ -17,6 +17,9 @@ Apply if condition to print 1.
 If the condition fails, print the number using the formula. value=value*(i-j+1)/j.
 
 ## Program:
+
+### DEVELOPED BY : ABRIN NISHA A
+### REG NO : 212222230023
 ```
 using System;
 public class Pattern {
